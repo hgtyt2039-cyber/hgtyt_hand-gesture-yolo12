@@ -1,0 +1,49 @@
+# ==========================================
+# 1. BỎ FILE CỦA MÔI TRƯỜNG PYTHON & YOLO
+# ==========================================
+hand-gesture-yolo12/yolov12_env/
+
+hand-gesture-yolo12/dataset_1000/
+hand-gesture-yolo12/dataset_raw_filtered/
+
+hand-gesture-yolo12/runs/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =================================
+# 2. BỎ FILE RÁC & CACHE CỦA UNITY
+# =================================
+unity_environment/AssistiveRoom/Library/
+unity_environment/AssistiveRoom/Temp/
+unity_environment/AssistiveRoom/Obj/
+unity_environment/AssistiveRoom/Build/
+unity_environment/AssistiveRoom/Builds/
+unity_environment/AssistiveRoom/Logs/
+unity_environment/AssistiveRoom/UserSettings/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+unity_environment/AssistiveRoom/sysinfo.txt
+unity_environment/AssistiveRoom/UpgradeLog.htm
+
+# =========================
+# 3. BỎ FILE HỆ ĐIỀU HÀNH
+# =========================
+Thumbs.db
+
+unity_environment/Editor/

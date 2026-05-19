@@ -1,0 +1,21 @@
+# Virtual environment
+yolov12_env/
+__pycache__/
+*.pyc
+
+# Datasets and outputs
+dataset/images/
+dataset/labels/
+raw/
+runs/
+labels_temp/
+
+# Temporary files
+*.log
+*.tmp
+*.zip
+*.rar
+
+# System files
+.DS_Store
+Thumbs.db
