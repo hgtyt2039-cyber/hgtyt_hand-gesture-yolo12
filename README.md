@@ -235,7 +235,7 @@ python gesture_app.py
 
 ---
 
-## 🎮 Gesture → Unity Mapping
+## Gesture → Unity Mapping
 
 | Gesture | Unity Command | Action in the 3D environment |
 |---|---|---|
@@ -252,7 +252,7 @@ python gesture_app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hgtyt_hand-gesture-yolo12/
